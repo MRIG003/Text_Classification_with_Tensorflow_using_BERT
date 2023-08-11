@@ -1,0 +1,2 @@
+# Text_Classification_with_Tensorflow_using_BERT
+Text classification leveraging BERT (Bidirectional Encoder Representations from Transformers)
